@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T09:00:04.860Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.8.2" etag="oo-md0pPW87uDnBJUrXy" type="github"><diagram id="EsMcHmFCRJJ24w4XT0aC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-28T09:22:43.268Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZZfzycTuMvnUyWJjS9ZI" version="14.8.2" type="github">
+  <diagram id="EsMcHmFCRJJ24w4XT0aC" name="Page-1">
+    <mxGraphModel dx="1225" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-2" value="Nigix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-4" value="限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-5" target="PRGIWrAmWQrkpULuuBtC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-5" value="缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-8" target="PRGIWrAmWQrkpULuuBtC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-8" value="预加载库存" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-9" value="减库存" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-10" value="查询订单" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-11" value="创建订单" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-12" value="库存管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-13" value="主库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="910" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-14" value="从库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="910" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-15" value="MQ" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-19" value="&lt;h1&gt;限流方案&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-20" value="&lt;ul&gt;&lt;li&gt;基于令牌桶算法guava.RateLimiter&lt;/li&gt;&lt;li&gt;alibaba.Sentinel&lt;/li&gt;&lt;/ul&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="50" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
