@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T10:00:40.000Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="iZ8JIfUJEaKLkFYzNvBy" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T10:04:11.472Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7LyzMjzNGB4VPE_F8-7W" version="14.8.2" type="github">
   <diagram id="EsMcHmFCRJJ24w4XT0aC" name="Page-1">
     <mxGraphModel dx="1225" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,11 +37,14 @@
         <mxCell id="PRGIWrAmWQrkpULuuBtC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-27" target="PRGIWrAmWQrkpULuuBtC-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRGIWrAmWQrkpULuuBtC-27" value="加载库存" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-27" value="预加载库存" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-28" target="PRGIWrAmWQrkpULuuBtC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-28" value="归还库库" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-29" value="库存表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="254" y="830" width="60" height="80" as="geometry" />
@@ -78,6 +81,9 @@
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-32" value="支付结果" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="694" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-33" target="PRGIWrAmWQrkpULuuBtC-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-33" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="399" y="20" width="30" height="60" as="geometry" />
