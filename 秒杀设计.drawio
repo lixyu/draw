@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T10:04:11.472Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7LyzMjzNGB4VPE_F8-7W" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T10:10:15.217Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eP07JjQ8isnNz_Dsxiu0" version="14.8.2" type="github">
   <diagram id="EsMcHmFCRJJ24w4XT0aC" name="Page-1">
     <mxGraphModel dx="1225" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-22" value="商品信息" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="204" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="204" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRGIWrAmWQrkpULuuBtC-23" value="静态资源" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="54" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-23" value="静态资源" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-24" target="PRGIWrAmWQrkpULuuBtC-27">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-25" value="秒杀" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-26" target="PRGIWrAmWQrkpULuuBtC-40">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-27" value="预加载库存" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="100" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-28" target="PRGIWrAmWQrkpULuuBtC-24">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="PRGIWrAmWQrkpULuuBtC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-30" target="PRGIWrAmWQrkpULuuBtC-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRGIWrAmWQrkpULuuBtC-30" value="下单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-30" value="异步(MQ)下单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="520" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRGIWrAmWQrkpULuuBtC-31" target="PRGIWrAmWQrkpULuuBtC-32">
@@ -101,6 +101,14 @@
         </mxCell>
         <mxCell id="PRGIWrAmWQrkpULuuBtC-46" value="减库存" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="490" y="842" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-61" value="" style="swimlane;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="55" y="270" width="610" height="200" as="geometry">
+            <mxRectangle x="40" y="210" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRGIWrAmWQrkpULuuBtC-62" value="缓存(redis)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
