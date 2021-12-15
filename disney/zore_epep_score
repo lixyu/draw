@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:14:01.835Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="As5NutcDmCWEFqO2A3i6" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T08:19:10.861Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="V1qIfazKjZZwk3LgB3gE" version="15.9.1" type="github">
   <diagram id="3wWrOf2psiIHpcTrIKbx" name="Page-1">
     <mxGraphModel dx="1232" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="e7pDIrOZFefy2JmzWMQ1-63" value="todo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="940" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e7pDIrOZFefy2JmzWMQ1-64" value="评估zero-epep工作量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="e7pDIrOZFefy2JmzWMQ1-63">
+        <mxCell id="e7pDIrOZFefy2JmzWMQ1-64" value="评估zero-epep工作量及时间线" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="e7pDIrOZFefy2JmzWMQ1-63">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e7pDIrOZFefy2JmzWMQ1-65" value="如需绑卡,与zhenfei`s team对接" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="e7pDIrOZFefy2JmzWMQ1-63">
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="e7pDIrOZFefy2JmzWMQ1-66" value="兑换入口与julian`s team对接" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="e7pDIrOZFefy2JmzWMQ1-63">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e7pDIrOZFefy2JmzWMQ1-72" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
