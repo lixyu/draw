@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T07:04:55.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aG4xs1uflM3_ksC9l_Zr" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:24:44.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="e1XwfJPGnMiNRmp42iLz" version="20.5.3" type="github" pages="2">
   <diagram id="tsX5UEzlDEfVb8jVVZuf" name="第 1 页">
-    <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,6 +233,11 @@
         <mxCell id="V7a1rIFiidezmJTfsek6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V7a1rIFiidezmJTfsek6-53" target="V7a1rIFiidezmJTfsek6-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V7a1rIFiidezmJTfsek6-100" value="ticketing order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V7a1rIFiidezmJTfsek6-78">
+          <mxGeometry x="-0.1493" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V7a1rIFiidezmJTfsek6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V7a1rIFiidezmJTfsek6-53" target="V7a1rIFiidezmJTfsek6-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -256,13 +261,8 @@
         <mxCell id="V7a1rIFiidezmJTfsek6-57" value="galaxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V7a1rIFiidezmJTfsek6-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V7a1rIFiidezmJTfsek6-58" target="V7a1rIFiidezmJTfsek6-55">
+        <mxCell id="V7a1rIFiidezmJTfsek6-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="V7a1rIFiidezmJTfsek6-58" target="V7a1rIFiidezmJTfsek6-55">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V7a1rIFiidezmJTfsek6-97" value="ticketing order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V7a1rIFiidezmJTfsek6-68">
-          <mxGeometry x="0.1333" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="V7a1rIFiidezmJTfsek6-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="V7a1rIFiidezmJTfsek6-58" target="V7a1rIFiidezmJTfsek6-53">
           <mxGeometry relative="1" as="geometry" />
