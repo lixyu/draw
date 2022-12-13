@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T08:42:08.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rB_GlDNo35pqITdNqw1x" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T06:26:48.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EJEbrt4M7ecOLydReSAp" version="20.6.2" type="github">
   <diagram id="qnAYHWkGqjJaZW_h_Cl6" name="第 1 页">
     <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3si14ry6umVApPdq2mn3-34" value="sort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-33">
+        <mxCell id="3si14ry6umVApPdq2mn3-34" value="op_code" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-33">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -271,7 +271,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3si14ry6umVApPdq2mn3-55" value="sort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-53">
+        <mxCell id="3si14ry6umVApPdq2mn3-55" value="op_code" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-53">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -328,7 +328,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3si14ry6umVApPdq2mn3-72" value="sort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-70">
+        <mxCell id="3si14ry6umVApPdq2mn3-72" value="op_code" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-70">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -428,8 +428,8 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3si14ry6umVApPdq2mn3-95" value="&lt;ul&gt;&lt;li&gt;recovery&lt;/li&gt;&lt;li&gt;refund&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="490" width="100" height="80" as="geometry" />
+        <mxCell id="3si14ry6umVApPdq2mn3-95" value="&lt;ul&gt;&lt;li&gt;删除库存&lt;/li&gt;&lt;li&gt;recovery/refund&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="490" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3si14ry6umVApPdq2mn3-96" value="修改场次" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1061" y="950" width="180" height="190" as="geometry" />
@@ -442,7 +442,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3si14ry6umVApPdq2mn3-99" value="sort" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-97">
+        <mxCell id="3si14ry6umVApPdq2mn3-99" value="op_code" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="3si14ry6umVApPdq2mn3-97">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -505,6 +505,12 @@
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3si14ry6umVApPdq2mn3-117" value="&lt;ul&gt;&lt;li&gt;生成新场次的库存&lt;/li&gt;&lt;li&gt;推送至order,可进行售买&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="720" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3si14ry6umVApPdq2mn3-118" value="&lt;ul&gt;&lt;li&gt;转化成先减场次,后增加场次的场景&lt;/li&gt;&lt;li&gt;直接更新场次时间,库存不变,通知已买的游客变更信息&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="940" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
