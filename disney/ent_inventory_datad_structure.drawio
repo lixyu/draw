@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T06:26:48.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EJEbrt4M7ecOLydReSAp" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T06:59:33.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mc1p2urX5eRpX5o1D0MK" version="20.6.2" type="github">
   <diagram id="qnAYHWkGqjJaZW_h_Cl6" name="第 1 页">
     <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,7 +510,7 @@
           <mxGeometry x="1310" y="720" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3si14ry6umVApPdq2mn3-118" value="&lt;ul&gt;&lt;li&gt;转化成先减场次,后增加场次的场景&lt;/li&gt;&lt;li&gt;直接更新场次时间,库存不变,通知已买的游客变更信息&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="940" width="150" height="80" as="geometry" />
+          <mxGeometry x="1310" y="940" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
