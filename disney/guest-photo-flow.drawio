@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T08:14:31.515Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="fsW2PD3OLXrJnaWz3N90" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T08:29:08.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f4wQIdDhJB9UcUJjlBQM" version="21.2.9" type="github">
   <diagram name="第 1 页" id="NajveScSe4lcoSnFjiGo">
-    <mxGraphModel>
+    <mxGraphModel dx="1286" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="frCSm-gNbVc2BIGa97Jc-1" value="galaxy" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frCSm-gNbVc2BIGa97Jc-2" value="event bus&lt;br&gt;(kafka)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frCSm-gNbVc2BIGa97Jc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="frCSm-gNbVc2BIGa97Jc-4" target="frCSm-gNbVc2BIGa97Jc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frCSm-gNbVc2BIGa97Jc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frCSm-gNbVc2BIGa97Jc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
