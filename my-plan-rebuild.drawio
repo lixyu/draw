@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T08:08:03.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="UrvBCAtH8nJCzjdcHwuw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T03:26:34.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aEPNi62Ya7rqlK6mqjFQ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="aBky8CG3L3Q5i7M--kZO">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c1G3mzA74e-tsa6nKa3s-1" value="fetch park operational date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1G3mzA74e-tsa6nKa3s-2" value="查的是fastpass DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1G3mzA74e-tsa6nKa3s-3" value="fetch vids by swid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1G3mzA74e-tsa6nKa3s-5" value="categoryNextSelectionTimes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1G3mzA74e-tsa6nKa3s-6" value="需要读gxp-service redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
