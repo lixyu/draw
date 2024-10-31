@@ -1,15 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="Hwq8ODd7fS5CAAT26_K7">
-    <mxGraphModel dx="828" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-1" value="tap_txn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="60" height="80" as="geometry" />
+          <mxGeometry x="730" y="520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-32" target="yUcysdBzzIg5NCyW9ZT4-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="355" as="sourcePoint" />
+            <mxPoint x="260" y="355" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-3" target="yUcysdBzzIg5NCyW9ZT4-4">
@@ -35,8 +35,8 @@
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yUcysdBzzIg5NCyW9ZT4-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="targetPoint" />
-            <mxPoint x="330" y="190" as="sourcePoint" />
+            <mxPoint x="530" y="240" as="targetPoint" />
+            <mxPoint x="460" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;config&lt;font style=&quot;font-size: 11px;&quot; face=&quot;IBMPlexMono, Monaco, Courier New, monospace, Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&amp;nbsp;by &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: IBMPlexMono, Monaco, &amp;quot;Courier New&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;entertainmentId&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yUcysdBzzIg5NCyW9ZT4-16">
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-3" value="sarg-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-4" target="yUcysdBzzIg5NCyW9ZT4-3">
           <mxGeometry relative="1" as="geometry" />
@@ -67,17 +67,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-4" value="DAP-controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-8" value="redemption APP" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;" vertex="1" parent="1">
-          <mxGeometry x="310" y="70" width="45.46" height="90" as="geometry" />
+          <mxGeometry x="440" y="70" width="45.46" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-4" target="yUcysdBzzIg5NCyW9ZT4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.867;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-20" target="yUcysdBzzIg5NCyW9ZT4-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="400" as="targetPoint" />
+            <mxPoint x="230" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-27" value="success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yUcysdBzzIg5NCyW9ZT4-24">
@@ -92,7 +92,7 @@
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.356;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yUcysdBzzIg5NCyW9ZT4-20" target="yUcysdBzzIg5NCyW9ZT4-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="400" as="targetPoint" />
+            <mxPoint x="170" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-29" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yUcysdBzzIg5NCyW9ZT4-25">
@@ -111,19 +111,121 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-20" value="&lt;span style=&quot;color: rgb(255, 119, 6); font-family: Menlo-Regular, monospace; font-size: 10px; font-weight: 700; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;fastPassResponse&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 119, 6); font-family: Menlo-Regular, monospace; font-size: 10px; font-weight: 700; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;.isGreen()&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="100" height="80" as="geometry" />
+          <mxGeometry x="410" y="450" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-32" value="" style="points=[[0,0.5,0],[0.19,0.02,0],[0.59,0,0],[0.985,0.02,0],[1,0.5,0],[0.985,0.98,0],[0.59,1,0],[0.19,0.98,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.camera;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="330" width="90" height="50" as="geometry" />
+          <mxGeometry x="150" y="330" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-34" value="DAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="50" height="30" as="geometry" />
+          <mxGeometry x="180" y="340" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-37" value="GIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUcysdBzzIg5NCyW9ZT4-40" value="experienceStatus=true代表green" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="200" height="30" as="geometry" />
+          <mxGeometry x="830" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-43" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-45" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-46" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="465.46000000000004" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-47" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-48" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="900" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-49" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="195" y="470" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-50" value="API" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="430" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="30" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-52" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-51">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-53" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;shdr-sarg-service/api/v2/readers/update-stream&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-51">
+          <mxGeometry x="40" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="60" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-55" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-54">
+          <mxGeometry width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-56" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;shdr-dap-controller/services/redemption/pre-check/tap&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br/&gt;shdr-dap-controller/services/redemption/tap&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-54">
+          <mxGeometry x="40" width="390" height="40" as="geometry">
+            <mxRectangle width="390" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="100" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-58" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-57">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-59" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;shdr-guestimage-service/getguestimage&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-57">
+          <mxGeometry x="40" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="130" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-61" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-60">
+          <mxGeometry width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-62" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;http://DAP_IP:8000/media/sequence?name=success&amp;amp;timeout=4000&amp;amp;reason=No&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-60">
+          <mxGeometry x="40" width="390" height="40" as="geometry">
+            <mxRectangle width="390" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="170" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-64" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-63">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-65" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;shdr-sarg-service/api/readers?entertainmentId={&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;entertainmentId&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;}&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-63">
+          <mxGeometry x="40" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-50">
+          <mxGeometry y="200" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-83" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-82">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-84" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;shdr-dap-controller/atom/tap/{deviceId}&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="yUcysdBzzIg5NCyW9ZT4-82">
+          <mxGeometry x="40" width="390" height="30" as="geometry">
+            <mxRectangle width="390" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yUcysdBzzIg5NCyW9ZT4-85" value="guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="325" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
