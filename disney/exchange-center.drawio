@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fJX4vQ_VuAboDIyCRGbF-7" value="&lt;div&gt;is&lt;/div&gt;purchased&lt;div&gt;DPA?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="260" width="70" height="80" as="geometry" />
+          <mxGeometry x="85" y="260" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJX4vQ_VuAboDIyCRGbF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fJX4vQ_VuAboDIyCRGbF-14" edge="1" target="fJX4vQ_VuAboDIyCRGbF-31">
           <mxGeometry relative="1" as="geometry">
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJX4vQ_VuAboDIyCRGbF-15" value="&lt;div&gt;is&lt;/div&gt;purchased&lt;div&gt;DPA?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="639" y="260" width="70" height="80" as="geometry" />
+          <mxGeometry x="639" y="260" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJX4vQ_VuAboDIyCRGbF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fJX4vQ_VuAboDIyCRGbF-16" target="fJX4vQ_VuAboDIyCRGbF-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -268,7 +268,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MBiXelKvt-dua7gfafUY-34" value="&lt;div&gt;is&lt;/div&gt;&lt;div&gt;one-day&lt;br&gt;ticket&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="260" width="70" height="80" as="geometry" />
+          <mxGeometry x="356" y="260" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MBiXelKvt-dua7gfafUY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBiXelKvt-dua7gfafUY-34" target="MBiXelKvt-dua7gfafUY-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
