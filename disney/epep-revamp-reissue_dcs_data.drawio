@@ -65,7 +65,7 @@
             <mxPoint x="135" y="481" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS8435UQlPTGH_bgCMpZ-12" value="库存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="LS8435UQlPTGH_bgCMpZ-5">
+        <mxCell id="LS8435UQlPTGH_bgCMpZ-12" value="库存(已有)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="LS8435UQlPTGH_bgCMpZ-5">
           <mxGeometry x="30" y="161" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
