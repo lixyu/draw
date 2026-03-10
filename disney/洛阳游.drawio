@@ -7,7 +7,7 @@
         <mxCell id="E_DYie1SoLtBLYMq3_5j-1" edge="1" parent="1" source="E_DYie1SoLtBLYMq3_5j-18" style="shape=link;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <mxPoint x="20" y="280" as="sourcePoint" />
-            <mxPoint x="630" y="270" as="targetPoint" />
+            <mxPoint x="670" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E_DYie1SoLtBLYMq3_5j-3" edge="1" parent="1" style="shape=link;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
@@ -37,7 +37,7 @@
           <mxGeometry height="30" width="70" x="440" y="285" as="geometry" />
         </mxCell>
         <mxCell id="E_DYie1SoLtBLYMq3_5j-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="洛邑古城" vertex="1">
-          <mxGeometry height="30" width="70" x="525" y="284" as="geometry" />
+          <mxGeometry height="30" width="70" x="580" y="285" as="geometry" />
         </mxCell>
         <mxCell id="E_DYie1SoLtBLYMq3_5j-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="龙门站" vertex="1">
           <mxGeometry height="30" width="50" x="325" y="430" as="geometry" />
@@ -58,6 +58,18 @@
         </mxCell>
         <mxCell id="ABhdW_viJuVXhuYdN0lf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="国花园" vertex="1">
           <mxGeometry height="30" width="70" x="390" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ABhdW_viJuVXhuYdN0lf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="十&lt;div&gt;字&lt;/div&gt;&lt;div&gt;街&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ABhdW_viJuVXhuYdN0lf-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Day 1&lt;/h1&gt;&lt;p&gt;1.如皋--&amp;gt;洛阳(下午到)&lt;/p&gt;&lt;p&gt;2.龙门站寄存行礼(最晚22:30可取)&lt;/p&gt;&lt;p&gt;3.打车--&amp;gt;龙门石窟(下午+夜游)&lt;br&gt;&lt;/p&gt;&lt;p&gt;4.取行礼后,去酒店办里入住&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="200" x="40" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="ABhdW_viJuVXhuYdN0lf-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Day 2&lt;/h1&gt;&lt;p&gt;1.白马寺(上午)&lt;/p&gt;&lt;p&gt;2.洛邑+十字街(下午)&lt;/p&gt;&lt;p&gt;3.应天门(晚上)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="200" x="410" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ABhdW_viJuVXhuYdN0lf-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Day 3&lt;/h1&gt;&lt;p&gt;1.退房+寄存行礼到前台&lt;/p&gt;&lt;p&gt;2.国花园+随唐植物园&lt;/p&gt;&lt;p&gt;3.午饭后,取行礼&lt;br&gt;&lt;/p&gt;&lt;p&gt;4.下午返回,洛阳--&amp;gt;如皋&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="200" x="480" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
