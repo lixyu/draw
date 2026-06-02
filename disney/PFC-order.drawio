@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="UBHBz_7PD0nXqPZRlRw3">
-    <mxGraphModel>
+    <mxGraphModel dx="1214" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-22" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="wEDazTsXu5u4Nmp1l0TX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-24" connectable="0" parent="wEDazTsXu5u4Nmp1l0TX-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="create payment session" vertex="1">
+          <mxGeometry relative="1" x="0.1284" y="1" as="geometry">
+            <mxPoint x="-59" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="create order&lt;div&gt;with payment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-14" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wEDazTsXu5u4Nmp1l0TX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="0 EPEP order" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="create order&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;in cast App&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-9" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wEDazTsXu5u4Nmp1l0TX-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" value="guest App" vertex="1">
+          <mxGeometry height="75" width="40" x="130" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-19" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wEDazTsXu5u4Nmp1l0TX-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" value="cast App" vertex="1">
+          <mxGeometry height="80" width="40" x="120" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
+          <mxGeometry height="80" width="60" x="740" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-17" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" target="wEDazTsXu5u4Nmp1l0TX-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-7" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" value="my coupon" vertex="1">
+          <mxGeometry height="80" width="40" x="130" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-11" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wEDazTsXu5u4Nmp1l0TX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-8" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#c0c0c0;shadow=0;dashed=0;strokeWidth=1;" value="DPA/DCS/EPEP" vertex="1">
+          <mxGeometry height="27.5" width="110" x="260" y="263.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-12" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wEDazTsXu5u4Nmp1l0TX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-10" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#c0c0c0;shadow=0;dashed=0;strokeWidth=1;" value="discount DCS" vertex="1">
+          <mxGeometry height="27.5" width="110" x="250" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-13" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=0;" target="wEDazTsXu5u4Nmp1l0TX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-15" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="wEDazTsXu5u4Nmp1l0TX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-20" edge="1" parent="1" source="wEDazTsXu5u4Nmp1l0TX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1.075;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;" target="wEDazTsXu5u4Nmp1l0TX-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="300" as="sourcePoint" />
+            <mxPoint x="310" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEDazTsXu5u4Nmp1l0TX-21" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="PIS" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
